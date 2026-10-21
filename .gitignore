@@ -1,0 +1,38 @@
+
+# Dependencies
+node_modules/
+
+# Generated files
+build/
+dist/
+coverage/
+
+# Uploaded files
+backend/uploads/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Default Create React App files not used by this project
+frontend/README.md
+frontend/src/App.test.js
+frontend/src/App.css
+frontend/src/logo.svg
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Archives
+*.rar
+*.zip
